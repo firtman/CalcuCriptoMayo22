@@ -3,7 +3,7 @@
     "short_name": "CalcCripto",
     "display": "standalone",
     "theme_color": "yellow",
-    "start_url": "calculadora.html",
+    "start_url": "./",
     "description": "Es una aplicación para saber cuántos bitcoins podemos comprar con pesos argentinos.",
     "icons": [
         {

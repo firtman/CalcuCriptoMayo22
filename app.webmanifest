@@ -4,10 +4,18 @@
     "display": "standalone",
     "theme_color": "yellow",
     "start_url": "calculadora.html",
+    "description": "Es una aplicación para saber cuántos bitcoins podemos comprar con pesos argentinos.",
     "icons": [
         {
             "src": "logo.png",
             "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "screenshots": [
+        {
+            "src": "screenshot.png",
+            "sizes": "1080x2220",
             "type": "image/png"
         }
     ]

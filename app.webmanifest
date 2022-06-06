@@ -1,0 +1,14 @@
+{
+    "name": "Calculadora Cripto",
+    "short_name": "CalcCripto",
+    "display": "standalone",
+    "theme_color": "yellow",
+    "start_url": "calculadora.html",
+    "icons": [
+        {
+            "src": "logo.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}

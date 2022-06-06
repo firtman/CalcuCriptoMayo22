@@ -1,0 +1,26 @@
+/* Pone los estilos del titulo */
+ h1 { 
+    color: rgb(125, 63, 19); 
+    background-color: bisque;
+}
+/* Pone los estilos del campo de ingreso de texto */
+input {
+    color: red;
+    text-align: center;      
+}
+/* Agrega espacio para el contenido */
+body {
+    padding: 20px;
+}
+/* Diseño para el resultado */
+p {
+    text-align: center;
+    font-size: 29px;
+    color: green;
+}
+/* Centrar el logo */
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
